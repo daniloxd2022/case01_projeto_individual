@@ -27,7 +27,7 @@ npm install </br>
 npm start </br> 
 npm run dev </br>
 
-# Feito 
+# Tela 
 
 ![](https://github.com/daniloxd2022/case01_projeto_individual/blob/3c0230fa555d7989c92f09e6c73be4f64d6eee22/FrontEd/public/minha_tabela_com_botoes.png) 
 ![](https://github.com/daniloxd2022/case01_projeto_individual/blob/71109587e13923553794a07e84eb0fd594cab95b/FrontEd/public/formato_json.png)
