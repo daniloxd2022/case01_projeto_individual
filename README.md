@@ -29,5 +29,5 @@ npm run dev </br>
 
 # Feito 
 
-![](https://github.com/HeynzNedls/TbIM6/blob/58ac040f717220073e3f624cc95b1274dd9b3f8e/finalyf.JPG) 
+![](https://github.com/daniloxd2022/case01_projeto_individual/blob/3c0230fa555d7989c92f09e6c73be4f64d6eee22/FrontEd/public/minha_tabela_com_botoes.png) 
 ![](https://github.com/HeynzNedls/TbIM6/blob/a4c0dc56e839884c9a242fb677975e569950d14d/back.JPG)
